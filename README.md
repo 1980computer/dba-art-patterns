@@ -7,7 +7,7 @@
 • Madrix Luna</p>
 
 <hr>
-
+<!-- 
 <h4><strong>Arduino Connected to PC</strong></h4>
 <p>The following I use for when the Arduino is&nbsp;<span style="color: #ff0000;"><strong>connected to my PC</strong></span>:</p>
 
@@ -18,4 +18,4 @@
 
 <p><i class="icon-warning-sign icon-color-cancel">&nbsp;</i>This is for&nbsp;<span style="color: #ff0000;"><strong>stand-alone ONLY</strong></span> so when the Arduino is&nbsp;<span style="color: #ff0000;"><strong>NOT</strong> <strong>connect to a PC</strong>!</span></p>
 
-<div id="attachment_2511" style="width: 810px" class="wp-caption aligncenter"><a href="http://www.tweaking4all.com/wp-content/uploads/2014/01/arduino_no_computer_power.jpg" class="fancybox image" rel="gallery"><img class="size-medium wp-image-2511" src="http://www.tweaking4all.com/wp-content/uploads/2014/01/arduino_no_computer_power-800x439.jpg" alt="Arduino &amp; WS2812 - Only running on external power supply" width="800" height="439" srcset="http://www.tweaking4all.com/wp-content/uploads/2014/01/arduino_no_computer_power-800x439.jpg 800w, http://www.tweaking4all.com/wp-content/uploads/2014/01/arduino_no_computer_power-400x219.jpg 400w, http://www.tweaking4all.com/wp-content/uploads/2014/01/arduino_no_computer_power-180x98.jpg 180w, http://www.tweaking4all.com/wp-content/uploads/2014/01/arduino_no_computer_power.jpg 843w" sizes="(max-width: 800px) 100vw, 800px"></a><p class="wp-caption-text">Arduino &amp; WS2812 – Only running on external power supply</p></div>
+<div id="attachment_2511" style="width: 810px" class="wp-caption aligncenter"><a href="http://www.tweaking4all.com/wp-content/uploads/2014/01/arduino_no_computer_power.jpg" class="fancybox image" rel="gallery"><img class="size-medium wp-image-2511" src="http://www.tweaking4all.com/wp-content/uploads/2014/01/arduino_no_computer_power-800x439.jpg" alt="Arduino &amp; WS2812 - Only running on external power supply" width="800" height="439" srcset="http://www.tweaking4all.com/wp-content/uploads/2014/01/arduino_no_computer_power-800x439.jpg 800w, http://www.tweaking4all.com/wp-content/uploads/2014/01/arduino_no_computer_power-400x219.jpg 400w, http://www.tweaking4all.com/wp-content/uploads/2014/01/arduino_no_computer_power-180x98.jpg 180w, http://www.tweaking4all.com/wp-content/uploads/2014/01/arduino_no_computer_power.jpg 843w" sizes="(max-width: 800px) 100vw, 800px"></a><p class="wp-caption-text">Arduino &amp; WS2812 – Only running on external power supply</p></div> -->
