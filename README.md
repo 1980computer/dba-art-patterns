@@ -1,5 +1,10 @@
 <h4>Art LED Patterns</h4>
 <p>Used in projects that I build in my freetime.</p>
+<p>Code used across:<br>
+• Arduino NeoPixel<br>
+• Arduino FastLED<br>
+• MadMapper MadLight<br>
+• Madrix Luna</p>
 
 <hr>
 
