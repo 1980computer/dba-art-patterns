@@ -1,0 +1,5 @@
+LED Edit
+
+LedEdit 2014 is a free program that enables you to configure the T-1000S SD card RGB LED pixel controller. The program automatically detects the device connected to your computer and it allows you to set up your projects, the desired video effects and to preview and edit recordings.
+
+http://lededit-2014.software.informer.com/
