@@ -1,11 +1,11 @@
 <h4>Art Patterns</h4>
+<hr>
 <p>Used in light based projects that I build in my freetime.</p>
 <p>Code used across:<br>
 • Arduino NeoPixel<br>
 • Arduino FastLED<br>
 • MadMapper MadLight<br>
 • Madrix Luna</p>
-
 <hr>
 <!-- 
 <h4><strong>Arduino Connected to PC</strong></h4>
