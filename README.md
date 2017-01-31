@@ -5,7 +5,12 @@
 • Arduino NeoPixel<br>
 • Arduino FastLED<br>
 • MadMapper MadLight<br>
-• Madrix Luna</p>
+• Madrix Luna<br>
+• LED Edit</p>
+<hr>
+
+<p>Examples:</p>
+
 <hr>
 
 <p>Twitter - <a href="https://twitter.com/davidbanthony" class="twitter-follow-button" data-show-count="false">Follow @davidbanthony</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
