@@ -1,0 +1,10 @@
+Controlling LED strips from MadMapper
+INTRODUCTION
+
+In addition to being the easiest and quickest video mapping tool, MadMapper can also control lighting? How does that work?
+
+We will explain the theory of operation to control lights, and more specifically LED strips, with MadMappers new MadLight feature. For that, we will first do an overview of the devices and technologies needed. Then we will see an example of a simple LED strip installation followed by some details of the installation of “The Cave”.
+
+Note that this tutorial focuses on LED strips, but MadLight can control any DMX512 compatible device.
+
+http://www.madmapper.com/controlling-led-strips-from-madmapper/

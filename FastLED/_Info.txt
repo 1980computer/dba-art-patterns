@@ -1,0 +1,7 @@
+Fast, easy LED library for Arduino
+
+FastLED is a fast, efficient, easy-to-use Arduino library for programming addressable LED strips and pixels such as WS2810, WS2811, LPD8806, Neopixel and more. FastLED is used by thousands of developers, in countless art and hobby projects, and in numerous commercial products.
+
+We build FastLED to help you get started faster, develop your code faster, and make your code run faster.
+
+http://fastled.io/

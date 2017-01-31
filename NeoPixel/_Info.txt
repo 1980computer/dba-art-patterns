@@ -1,0 +1,9 @@
+NEOPIXELS
+
+What's better for your project than rings, strips, boards and sticks of pulsing, colorful miniature LEDs? We can't think of much else - and that's why we carry a complete line of the Adafruit original NeoPixels.
+
+These popular products are chainable from one to the next so you can power and program a long line of NeoPixels together to form an endless (or almost endless) string of 5050 LEDs. Plus, with our NeoPixel Uberguide, wonderfully written NeoPixel library for Arduino and our diverse range of Learn System projects, its never been easier to both find a project and program it to glow or spin or flash as quickly, slowly, and vibrantly as you want.
+
+https://www.adafruit.com/category/168
+
+https://learn.adafruit.com/12mm-led-pixels/code
