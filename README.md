@@ -1,5 +1,5 @@
-<h4>Art LED Patterns</h4>
-<p>Used in projects that I build in my freetime.</p>
+<h4>Art Patterns</h4>
+<p>Used in light based projects that I build in my freetime.</p>
 <p>Code used across:<br>
 • Arduino NeoPixel<br>
 • Arduino FastLED<br>
