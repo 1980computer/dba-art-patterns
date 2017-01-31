@@ -1,10 +1,14 @@
+<a href="http://davidbanthony.me" target="_blank"><img src="http://static1.squarespace.com/static/53d677d2e4b090e9cd5361cf/t/5854c52ec534a52513ac59ea/1481955228902/?format=original" height="25" alt=""></a>
+
+<hr>
+
 <h3>Art Patterns</h3>
+<p>Used in light based projects that I build for fun in my freetime.</p>
 
 <hr>
 Example
 <hr>
 
-<p>Used in light based projects that I build in my freetime.</p>
 <p>Code used across:<br>
 • Arduino NeoPixel<br>
 • Arduino FastLED<br>
