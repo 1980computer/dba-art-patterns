@@ -4,17 +4,17 @@
 
 <h3>Art Patterns</h3>
 <p>Used in light based projects that I build for fun in my freetime.</p>
-
-<hr>
-Example
-<hr>
-
-<p>Code used across:<br>
+<p>Associated program assets:<br>
 • Arduino NeoPixel<br>
 • Arduino FastLED<br>
 • MadMapper MadLight<br>
 • Madrix Luna<br>
 • LED Edit</p>
+
+<hr>
+
+<img src="https://github.com/davidbanthony/dba-art-patterns/blob/master/Examples.jpg?raw=true" alt="">
+
 <hr>
 
 <p>Twitter - <a href="https://twitter.com/davidbanthony" class="twitter-follow-button" data-show-count="false">Follow @davidbanthony</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
