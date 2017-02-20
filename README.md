@@ -5,11 +5,12 @@
 <h3>Art Patterns</h3>
 <p>Used in light based projects that I build for fun in my freetime.</p>
 <p>Associated program assets:<br>
-• Arduino NeoPixel<br>
-• Arduino FastLED<br>
-• MadMapper MadLight<br>
-• Madrix Luna<br>
-• LED Edit</p>
+• Fast LED<br>
+• LED Edit<br>
+• MadLight<br>
+• Madrix<br>
+• NeoPixel<br>
+• Processing</p>
 
 <hr>
 
