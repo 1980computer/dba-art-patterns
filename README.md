@@ -17,5 +17,3 @@
 <img src="https://github.com/davidbanthony/dba-art-patterns/blob/master/Examples.jpg?raw=true" alt="">
 
 <hr>
-
-<p>Twitter <a href="https://twitter.com/davidbanthony" target="_blank">Follow @davidbanthony</a> or Instagram <a href="https://instagram.com/davidbanthony" target="_blank">Follow @davidbanthony</a></p>
